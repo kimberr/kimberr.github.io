@@ -1,14 +1,17 @@
 h1 {
     color: black;
-    font-family: Arial, Helvetica, sans-serif;
-    text-decoration-line: underline;
+    font: Georgia;
     font-size: 35px;
     text-align: center; 
 }
 
+div.jumbotron {
+    background-image: url(MtBachelor.jpg)
+}
+
 h2 {
     color: black;
-    font-family: Arial, Helvetica, sans-serif;
+    font: Georgia;
     font-size: 30px;
     text-align: center;
 }
@@ -19,10 +22,5 @@ p {
     text-align: center;
 }
 
-img {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    size: 100px;
-}
+
 
